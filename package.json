@@ -2,7 +2,7 @@
   "name": "one-dark-plus",
   "displayName": "One Dark+",
   "description": "VSCode Theme based on Dark+ (default) theme.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "fsdevon",
   "engines": {
     "vscode": "^1.47.0"

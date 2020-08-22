@@ -483,7 +483,7 @@
         "entity.name.variable"
       ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#bbb"
       }
     },
     {
@@ -709,6 +709,20 @@
       "scope": "meta.function-call.generic.python",
       "settings": {
         "foreground": "#569cd6"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#c678dd"
+      }
+    },
+    {
+      "name": "keyword.operator.sigil.rust",
+      "scope": "keyword.operator.sigil.rust",
+      "settings": {
+        "foreground": "#c678dd"
       }
     }
   ],
