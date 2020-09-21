@@ -22,6 +22,7 @@
     "sideBarSectionHeader.border": "#ccc3",
     "statusBar.background": "#333333",
     "statusBar.foreground": "#858585",
+    "statusBar.debuggingForeground": "#ffffff",
     "statusBar.noFolderBackground": "#333333"
   },
   "tokenColors": [
@@ -240,7 +241,7 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#0dbc79"
+        "foreground": "#98c379"
       }
     },
     {
